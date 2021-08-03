@@ -4,3 +4,39 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+header .row{
+    background-color: rgb(18, 18, 51);
+    height: 100px;
+}
+
+header h2{
+    font-weight: 700;
+}
+
+header ul{
+    list-style-type: none;
+}
+header li{
+    display: inline-block;
+    margin-right: 10px;
+}
+header a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+}
+
+.jumbotron{
+    background-color: rgb(0, 192, 150);
+}
+
+.jumbotron img{
+    transform: scale(0.2);
+}
