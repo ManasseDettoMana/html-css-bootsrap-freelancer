@@ -15,9 +15,7 @@ header .row{
     height: 100px;
 }
 
-header h2{
-    font-weight: 700;
-}
+
 
 header ul{
     list-style-type: none;
@@ -30,13 +28,20 @@ header a{
     text-decoration: none;
     text-transform: uppercase;
     color: white;
-    font-weight: 700;
 }
 
 .jumbotron{
     background-color: rgb(0, 192, 150);
 }
 
-.jumbotron img{
-    transform: scale(0.2);
+#jumbo_avatar_img{
+    width: 200px;
+}
+
+.jumbotron h1{
+    font-size: 60px;
+}
+
+.weight_700{
+    font-weight: 700;
 }
