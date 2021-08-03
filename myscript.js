@@ -9,4 +9,4 @@ document.getElementsByClassName("nav_a").innerHTML = "schiaccia qui";
 console.log("tutto apposto");
 
 console.log(document.getElementById("start").innerHTML + " " +  document.getElementsByClassName("nav_a").innerHTML);
-console.log("ho " + eta + " anni, tra " + (eta_silente - eta) + " avrò l'attuale età di silente")
+console.log("ho " + eta + " anni, tra " + (eta_silente - eta) + " avrò l'attuale età di silente");
